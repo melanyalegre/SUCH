@@ -127,7 +127,7 @@ if page == "Home":
             A practical digital tool for improving communication, professional skepticism,
             and audit quality in multicultural audit teams.
             </p>
-            <p><strong>Designed for:</strong> Grant Thornton Netherlands audit teams</p>
+            <p><strong>Designed for:</strong> International Audit Teams</p>
         </div>
         """,
         unsafe_allow_html=True
@@ -167,7 +167,7 @@ if page == "Home":
                 <h3>Context</h3>
                 <p>
                 The tool is designed for international and multicultural audit teams
-                at Grant Thornton Netherlands.
+                all over the world, especially in situations where language differences and cultural communication styles may influence how team members speak up and challenge audit evidence.
                 </p>
             </div>
             """,
